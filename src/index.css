@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+}
+.div1{
+    /* iphone6 750  宽度和高度 是个设计稿一比一尺码 */
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    margin-right: 25px;
+}
